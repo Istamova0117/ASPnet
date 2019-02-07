@@ -1,2 +1,2 @@
 # Friends
-Full-Stack .NET App for suggesting friends on Social Media platforms using Graphs
+ASP.NET core MVC template for implementing CRUD operations.
