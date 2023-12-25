@@ -1,2 +1,2 @@
-# Model View Controller Template
-ASP.NET core MVC template for implementing CRUD operations.
+# ASP.NET
+Pеализация операций CRUD с использованием шаблона MVC ASP.NET Core
